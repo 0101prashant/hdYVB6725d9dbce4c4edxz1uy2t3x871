@@ -1,0 +1,44 @@
+[
+    {
+        "name":"App1",
+        "version": "0001",
+        "path": "ECMTesterApp.bin",
+        "release":"03-15-2025"
+    },
+    {
+        "name":"App2",
+        "version": "0002",
+        "path": "ECMTesterApp2.bin",
+        "release":"03-16-2025"
+    },
+    {
+        "name":"App3",
+        "version": "0003",
+        "path": "ECMTesterApp3.bin",
+        "release":"04-01-2025"
+    },
+    {
+        "name":"App4",
+        "version": "0004",
+        "path": "ECMTesterApp4.bin",
+        "release":"04-02-2025"
+    },
+    {
+        "name":"App5",
+        "version": "0005",
+        "path": "ECMTesterApp5.bin",
+        "release":"04-02-2025"
+    },
+    {
+        "name":"App6",
+        "version": "0006",
+        "path": "ECMTesterApp6.bin",
+        "release":"04-02-2025"
+    },
+    {
+        "name":"App7",
+        "version": "0007",
+        "path": "ECMTesterApp7.bin",
+        "release":"04-02-2025"
+    }
+]
