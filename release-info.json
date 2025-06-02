@@ -1,0 +1,10 @@
+{
+    "FirmwareUpdate":[
+        {"Version":"1.0","url":"http://www.github.com", "version_code":"1_0", "name":"First app", "description":"Description", "relese_date":"01-01-2025"},
+        {"Version":"1.1","url":"http://www.github.com", "version_code":"1_1", "name":"Second app", "description":"Description", "relese_date":"01-02-2025"}
+    ],
+    "ControlPannel":[
+        {"Version":"1.0","url":"http://www.github.com", "version_code":"1_0", "name":"First app", "description":"Description", "relese_date":"01-01-2025"},
+        {"Version":"1.2","url":"http://www.github.com", "version_code":"1_0", "name":"Second app", "description":"Description", "relese_date":"01-02-2025"}
+    ]
+}
